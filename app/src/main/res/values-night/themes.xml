@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base dark theme -->
+    <style name="Base.Theme.MyTradeUp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here -->
+    </style>
+
+    <!-- Add this missing style -->
+    <style name="Theme.MyTradeUp" parent="Base.Theme.MyTradeUp" />
+</resources>
